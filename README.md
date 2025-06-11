@@ -19,11 +19,11 @@
 ![Ansh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)
 
 <h3>🔍 Where to find me</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/anshsingh200516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshsingh200516" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anshsingh_1603/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshsingh_1603" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ansh200516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansh200516" height="30" width="40" /></a>
- <a href = "https://codeforces.com/profile/ansh200516" target = "blank"><img align = "center" alt="Codeforces" height = "20" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" /></a>
+ <a href = "https://codeforces.com/profile/ansh200516" target = "blank"><img align = "center" alt="Codeforces" height = "20" width="140" src="https://codeforces.org/s/71529/images/codeforces-sponsored-by-ton.png" /></a>
 </p>
 
 <!--
