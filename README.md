@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **ansh200516/ansh200516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
