@@ -22,7 +22,7 @@
 <a href="https://www.instagram.com/anshsingh_1603/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshsingh_1603" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ansh200516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansh200516" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/anshsingud70/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="anshsingud70" height="40" width="40" /></a>
-<a href = "https://codeforces.com/profile/ansh200516" target = "blank"><img align = "center" alt="Codeforces" height = "40" width="40" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" /></a>
+<a href = "https://codeforces.com/profile/ansh200516" target = "blank"><img align = "center" alt="Codeforces" height = "30" width="30" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" /></a>
 </p>
 
 <!--
