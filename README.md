@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Ansh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&theme=react-dark)
+![Ansh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&theme=dracula)
 
 <!--
 **ansh200516/ansh200516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
