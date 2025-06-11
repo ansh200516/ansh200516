@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## 📊 My Github Stats
 
   <br/>
   <p align = "center">
