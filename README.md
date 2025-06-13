@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-![Ansh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)
+![Ansh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh200516&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true&bg_color=0D1117)
 
 <br/>
 <p align="center">
