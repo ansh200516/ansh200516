@@ -8,8 +8,8 @@
 
 
   <p align = "center">
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats">--> <img alt="Ansh Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ansh200516&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> --> <img alt="Ansh Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh200516&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats">--> <img alt="Ansh Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ansh200516&show_icons=true&count_private=true&theme=elegant&hide_border=true&bg_color=0D1117" /></a>
+  <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> --> <img alt="Ansh Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh200516&langs_count=8&count_private=true&layout=compact&theme=elegant&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
 
