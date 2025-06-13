@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-<p align = "center">
-      <img alt="Ansh's Streak" src=(https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true)
-</p>
-
-<br/>
-
+[![GitHub Streak](https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true)](https://git.io/streak-stats)
 
   <p align = "center">
     <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats">--> <img alt="Ansh Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ansh200516&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
