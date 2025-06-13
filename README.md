@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align = "center">
-[![GitHub Streak](https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true)](https://git.io/streak-stats)
+      <img alt="Ansh's Streak" src=(https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true)
 </p>
 
 <br/>
