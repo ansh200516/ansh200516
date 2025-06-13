@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I’m Ansh 👋
+I'm a developer and researcher passionate about designing systems that think, learn, and feel intuitive to use. My journey spans AI research, full-stack development, and product design, grounded in a love for solving hard problems and building things that matter.
+
+Currently: Researching self-reflection in LLMs
+Believer in open science, clean code, and thoughtful interfaces
 
 <p align="center">
   <a href="https://git.io/streak-stats">
