@@ -2,7 +2,7 @@
 I'm a developer and researcher passionate about designing systems that think, learn, and feel intuitive to use. My journey spans AI research, full-stack development, and product design, grounded in a love for solving hard problems and building things that matter. Believer in open science, clean code, and thoughtful interfaces
 <br/>
 <br/>
-Currently: Researching self-reflection in LLMs at Aarhus University, Denmark
+Currently: Researching self-reflection in Language Agents at Aarhus University, Denmark
 <br/>
 
 
