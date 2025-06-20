@@ -14,7 +14,7 @@ Currently: Researching self-reflection in Language Agents at Aarhus University, 
 
 
 ![Ansh Singh's Github Stats](https://github-readme-stats.vercel.app/api?username=ansh200516&show_icons=true&count_private=true&theme=elegant&hide_border=true&bg_color=0D1117)
-  <p align = "center">
+  <p align = "right">
      <img alt="Ansh Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh200516&langs_count=8&count_private=true&layout=compact&theme=elegant&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
