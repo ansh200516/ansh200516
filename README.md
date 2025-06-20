@@ -8,7 +8,7 @@ Currently: Researching self-reflection in Language Agents at Aarhus University, 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=elegant&hide_border=true&background=45%2C01040100%2C00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-ashen-nu.vercel.app?user=ansh200516&theme=radical&hide_border=true&background=45%2C01040100%2C00000000" alt="GitHub Streak" />
   </a>
 </p>
 
